@@ -6,19 +6,13 @@ date: 2016-03-21
 comments: false
 ---
     
-<center> <b>Lydia</b> is a senior at UNC-Chapel Hill majoring in Global Studies. </center>
+<center> Hello, welcome to my website. My name is <b>Lydia Nguyen</b> and I am a senior at UNC-Chapel Hill majoring in Global Studies. </center>
 
 ## Interests
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* design
+* photography
+* technology
+
 
 ## Preview
 
