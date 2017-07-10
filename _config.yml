@@ -1,7 +1,7 @@
 # Site
-title:              INLS161 testing 
-bio:                'A practice page for INLS161 SSII'
-description:        "by lydia nguyen"
+title:              Lydia Nguyen
+bio:                hello
+description:        a website for INLS161
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/lydlogo.png'
@@ -25,7 +25,7 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
+## Comments
 disqus_shortname:   taylantatli
 
 # Social
@@ -38,9 +38,9 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            luftmeer_
+facebook:           lydiatnguyen
+github-url:         lydiatnguyen
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
