@@ -1,11 +1,11 @@
 # Site
 title:              Lydia Nguyen
-bio:                hello
-description:        a website for INLS161
+bio:                
+description:        a digital dwelling for lydian things
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/lydlogo.png'
-background:         'assets/img/DSC_0220.jpg'
+background:         'assets/img/DSC_0914.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://lydiatnguyen.github.io
