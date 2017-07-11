@@ -1,31 +1,23 @@
 ---
 layout: page
-title: About
+title: About Lydia
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center> Hello, welcome to my website. My name is <b>Lydia Nguyen</b> and I am a senior at UNC-Chapel Hill majoring in Global Studies. </center>
+<center> Hello, welcome to my website. My name is <b>Lydia Nguyen</b> and I am a senior at UNC-Chapel Hill majoring in Global Studies with a concentration in Global Health and Environment. I am a firm believer in interdisciplinary study and hope to merge my passions in the design of both physical and digital environments to something that will serve in helping people build stronger connections with others, themselves, and our natural world. Through this work-in-progress website, you can also explore my design and photography projects. </center>
 
-## Interests
-* design
-* photography
-* technology
+I am a deep lover of language and am constantly plotting my next language journey pursuit ...
+## Languages I speak
+* English (native)
+* Vietnamese (fluent)
+* French (intermediate proficiency)
+* German (intermediate proficiency)
 
+I welcome collaborating on projects and sharing ideas. Feel free to contact me at any of the social media links to the left or
+lydiaxnguyen [at] gmail.com
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
