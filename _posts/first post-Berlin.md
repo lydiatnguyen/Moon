@@ -1,3 +1,12 @@
+---
+layout: post
+title: "INLS161 First Post Berlin"
+date: 2017-07-10
+excerpt: "all about Berlin"
+tags: [sample post, INLS161, test]
+comments: true
+---
+
 Hallo!
 This is my first post for INLS161. 
 This is going to be a post all about one of my favourite cities in the world - Berlin, Germany.
