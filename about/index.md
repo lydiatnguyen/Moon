@@ -8,12 +8,7 @@ comments: false
     
 <center> Hello, welcome to my website. My name is <b>Lydia Nguyen</b> and I am a senior at UNC-Chapel Hill majoring in Global Studies with a concentration in Global Health and Environment. I am a firm believer in interdisciplinary study and hope to merge my passions in the design of both physical and digital environments to something that will serve in helping people build stronger connections with others, themselves, and our natural world. Through this work-in-progress website, you can also explore my design and photography projects. </center>
 
-I am a deep lover of language and am constantly plotting my next language journey pursuit ...
-## Languages I speak
-* English (native)
-* Vietnamese (fluent)
-* French (intermediate proficiency)
-* German (intermediate proficiency)
+## : )
 
 I welcome collaborating on projects and sharing ideas. Feel free to contact me at any of the social media links to the left or
 lydiaxnguyen [at] gmail.com
