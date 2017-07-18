@@ -39,7 +39,7 @@ To see the script I wrote to make this work, you can click <a href="https://gith
 The script included applying my knowledge of variables, input and output files, pandoc commands, and echo.
 It was admittedly confusing at first for me to understand all this(baby's first script), but I am proud to say I understand it all a bit more clearly after having done this assignment. 
 
-If you are looking for a way to convert your file to different file types, [Pandoc](https://pandoc.org/){target="_blank"} is your friend!
+If you are looking for a way to convert your file to different file types, <a href="https://pandoc.org" target="_blank">Pandoc</a> is your friend!
 
 
 
