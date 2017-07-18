@@ -7,7 +7,7 @@ tags: [INLS161, assignment]
 comments: true
 ---
 
-###INLS161 Assignment 3 - Text Conversion
+#INLS161 Assignment 3 - Text Conversion
 
 There are a few key moments in my life that I remember clearly changing the way I thought about the world. 
 A few of these moments include:
