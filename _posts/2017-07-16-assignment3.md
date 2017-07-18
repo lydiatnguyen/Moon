@@ -14,6 +14,7 @@ A few of these moments include:
 1. In my pre-calculus class in high school, when I learned that angles can be measured not only in degrees but also radians 
 2. When I realized nowhere= now+here
 3. When I realized things within your Google Drive are not necessarily private. My brainstorming, life dreams, and private files...could be used by Google?
+
 **4. When one of my first scripts ran and converted a markdown file to a PDF. Thank you INLS161 and John.**
 
 For Assignment 3, I created a markdown version of a country profile description I wrote in one of my beginner German language courses here at UNC.
