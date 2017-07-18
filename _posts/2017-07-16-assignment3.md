@@ -24,21 +24,21 @@ Here is an image showing where Poland is in the world for those that are not so 
 ![Poland](https://s-media-cache-ak0.pinimg.com/736x/15/bc/95/15bc9533ec0c60be2ec8eb5650e284ea--where-is-poland-maps.jpg "Where is Poland")
 
 Now that you have learned where Poland is in the world, you can read my file in all its glory! -and  all of its file types!
-I wrote a script and used Pandoc, a document converter, to convert the [initial Markdown file](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/polen.md) into:
+I wrote a script and used Pandoc, a document converter, to convert the [initial Markdown file](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/polen.md){target="_blank"} into:
 
-* [HTML](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/polen.html)
-* [Docx](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/polen.docx)
-* [ODT](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/polen.odt)
-* [PDF](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/polen.pdf)
-* [TXT](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/polen.txt)
+* [HTML](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/polen.html){target="_blank"}
+* [Docx](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/polen.docx){target="_blank"}
+* [ODT](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/polen.odt){target="_blank"}
+* [PDF](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/polen.pdf){target="_blank"}
+* [TXT](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/polen.txt){target="_blank"}
 
 Personally, my favourite is the PDF. It made me really excited to see the Markdown transform into a clean PDF.
-To see the script I wrote to make this work, you can click [here](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/lydiatnguyen-convert-docs.sh)
+To see the script I wrote to make this work, you can click [here](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/lydiatnguyen-convert-docs.sh){target="_blank"}
 
 The script included applying my knowledge of variables, input and output files, pandoc commands, and echo.
 It was admittedly confusing at first for me to understand all this(baby's first script), but I am proud to say I understand it all a bit more clearly after having done this assignment. 
 
-If you are looking for a way to convert your file to different file types, [Pandoc](https://pandoc.org/) is your friend!
+If you are looking for a way to convert your file to different file types, [Pandoc](https://pandoc.org/){target="_blank"} is your friend!
 
 
 
