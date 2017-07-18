@@ -18,12 +18,12 @@ I studied abroad in Berlin in the spring of 2016.
 It more than changed my life. 
 
 I came to love trains and street art even more. Everyday, I would wait for the bahn (train) and admire all the graffiti and street art all around. 
-[berlin] ({{lydiatnguyen.github.io}})/assets/img/berlin.jpg
+![Berlin] (lydiatnguyen.github.io/berlin.jpg)
 
 My favourite part of traveling is noticing the diasporic communities. There are many Turkish people in Berlin. 
 Döner is a Turkish food that made its way to becoming a popular street food in Berlin and all around Germany.
 Ich liebe Döner. 
-<img src="http://lydiatnguyen.github.io/assets/img/doner.jpg" >
+[doner](lydiatnguyen.github.io/doner.jpg)
 
 Here is a video from one of my favourite German music groups, Berge. The video shows different parts of Berlin.
 [Meer aus Farben](https://youtu.be/RSvy8BsRMj4)
