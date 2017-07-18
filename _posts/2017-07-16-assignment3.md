@@ -36,7 +36,7 @@ Personally, my favourite is the PDF. It made me really excited to see the Markdo
 To see the script I wrote to make this work, you can click [here](https://github.com/lydiatnguyen/lydiatnguyen-convert-documents/blob/master/lydiatnguyen-convert-docs.sh)
 
 The script included applying my knowledge of variables, input and output files, pandoc commands, and echo.
-It was admittedly confusing at first for me to understand all this(baby's first script), but I am proud to say I understand it clearer after having done this assignment. 
+It was admittedly confusing at first for me to understand all this(baby's first script), but I am proud to say I understand it all a bit more clearly after having done this assignment. 
 
 If you are looking for a way to convert your file to different file types, [Pandoc](https://pandoc.org/) is your friend!
 
