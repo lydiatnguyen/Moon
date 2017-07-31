@@ -25,7 +25,7 @@ I got to mess around a lot with HTML and reveal.js settings.
 I really like reveal.js. I think it's really cool to use and has functions that are useful like vertical slides and speaker notes. 
 I am grateful to have been introduced to it because I will definitely be using it again.
 
-##**<a href="https://lydiatnguyen.github.io/task-5-presentation/#/" target="_blank">Here</a> is a link to my presentation**
+## **<a href="https://lydiatnguyen.github.io/task-5-presentation/#/" target="_blank">Here</a> is a link to my presentation**
 
 I'd like to give music credit to <a href="https://www.youtube.com/watch?v=XXoRoLdXnvU" target="_blank">Marteria</a>, one of my favourite German music artists that keeps me questioning our world.
 ![marteria](http://lydiatnguyen.github.io/assets/img/marteria.jpg)
