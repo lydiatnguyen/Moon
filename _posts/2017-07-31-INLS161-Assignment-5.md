@@ -33,6 +33,4 @@ His tracks Roswell and Aliens were used in this for educational reasons ;) danke
 
 The video footage is from a music video called <a href="https://www.youtube.com/watch?v=SVagGGIsqtI" target="_blank">Astronaut</a> by Sido and Andreas Bourani.
 
-I'd also like to thank John!! and Friedrich Nietzsche for "Thus Spoke Zarathustra", which kept me going throughout the end of the semester.I
-
-For more music like his, I recommend <a href="https://www.youtube.com/watch?v=UKftOH54iNU" target="_blank">Stromae</a>.
+I'd also like to thank John!! and Friedrich Nietzsche for "Thus Spoke Zarathustra", which kept me going throughout the end of the semester.
