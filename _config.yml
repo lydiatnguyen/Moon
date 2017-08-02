@@ -4,7 +4,7 @@ bio:
 description:        a digital dwelling for lydian things
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/lydlogo.png'
+logo:               'assets/img/1.5.jpg'
 background:         'assets/img/DSC_0914.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
@@ -39,7 +39,7 @@ google:
 #bing-verify:
 #email:
 twitter:            luftmeer_
-facebook:           lydiatnguyen
+#facebook:           lydiatnguyen
 github-url:         lydiatnguyen
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
